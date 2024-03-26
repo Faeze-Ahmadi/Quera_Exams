@@ -7,8 +7,9 @@ if len(input_str) == 7:
     matches = pattern.findall(input_str)
 
     if matches:
-        print("Pattern found in the input string.")
+        print("DEATH")
         for match in matches:
             print(match)
     else:
         print("Pattern not found in the input string.")
+
