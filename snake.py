@@ -1,0 +1,1 @@
+inputs = input("Check the movement of the snake: ")
